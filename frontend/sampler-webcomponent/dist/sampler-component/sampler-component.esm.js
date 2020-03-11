@@ -1,0 +1,1 @@
+import{p,b}from"./p-5b37b001.js";p().then(p=>b([["p-e0chb4tv",[[0,"my-component"]]]],p));

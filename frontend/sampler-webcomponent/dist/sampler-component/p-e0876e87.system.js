@@ -1,0 +1,1 @@
+System.register(["./p-579543c4.system.js"],(function(){"use strict";var t,e;return{setters:[function(n){t=n.p;e=n.b}],execute:function(){t().then((function(t){return e([["p-k33uxl6e.system",[[0,"my-component"]]]],t)}))}}}));
